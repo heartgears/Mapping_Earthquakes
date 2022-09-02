@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-![earthquake_banner](https://thumbs.dreamstime.com/b/vector-illustration-earthquake-curve-wave-earth-crack-red-background-166578158.jpg)
+![earthquake_banner](https://media.istockphoto.com/photos/seismograph-and-earthquake-picture-id527890380?k=20&m=527890380&s=612x612&w=0&h=ZgVGMZNtnBhCKSg4W_i9JvG-uWHEj3k2dtN_4LXvwnY=)
 
 ## Purpose
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
